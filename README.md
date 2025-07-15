@@ -1,4 +1,5 @@
-
+<!-- 인삿말 + 간단 소개 -->
+<h1 align="center"> 강 준 혁 </h1>
 <p align="center">
 
 </p>
@@ -6,7 +7,7 @@
 ---
 
 <!-- 기술 스택 -->
-### 🛠️ Tech Stack
+### 📚 Language
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70" height="70" />
