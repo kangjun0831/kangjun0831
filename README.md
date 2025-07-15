@@ -11,7 +11,7 @@
 ---
 
 ### 📚 Languages
-<p align="center" style="margin-top: 10px;">
+<p style="margin-top: 10px;">
   <!-- 사용자가 보내준 아이콘 (크기 70x70 통일) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70" height="70" alt="HTML5" />
@@ -25,7 +25,7 @@
 ---
 
 ### 🛠️ Tools & IDEs
-<p align="center" style="margin-top: 10px;">
+<p style="margin-top: 10px;">
   <!-- 주신 도구 아이콘 + 추가 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="70" height="70" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70" height="70" alt="VSCode" />
@@ -36,7 +36,7 @@
 ---
 
 ### 📫 Contact Me
-<p align="center">
+<p>
   <a href="https://www.instagram.com/kjh._.0831/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:#E1306C;" />
   </a>
