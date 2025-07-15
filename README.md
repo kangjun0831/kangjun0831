@@ -1,12 +1,5 @@
-<!-- 인삿말 + 간단 소개 -->
-<h1 align="center"> 강 준 혁 </h1>
-<p align="center">
 
-</p>
-
----
-
-<!-- 기술 스택 -->
+<!-- 컴퓨터 언어 -->
 ### 📚 Language
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="70" height="70" />
@@ -34,8 +27,8 @@
 
 <!-- 연락 방법 -->
 ### 📫 Contact
-- 이메일: gyul@example.com
-- 블로그: [https://gyuldev.tistory.com](https://gyuldev.tistory.com) (없으면 빼도 됨)
+- ✉️ : june3154@gmail.com
+- Instagram:
 
 ---
 
