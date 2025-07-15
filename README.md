@@ -10,7 +10,7 @@
 <!-- 기술 스택 -->
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img src="[media/Css.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fultimatecourses.com%2Flearn%2Fhtml-css-basics&psig=AOvVaw2WGK15A8BoGB9IsJEb_ZjS&ust=1752651682411000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjryrmuvo4DFQAAAAAdAAAAABAE)" width="40" height="40"/>
   <img src="media/C언어.png"/>
   <img src="media/HTML5.png"/>
   <img src="media/Javascript.png"/>
