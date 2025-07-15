@@ -41,12 +41,8 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill:#E1306C;" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:june3154@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" style="fill:#D14836;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0077B5;" />
   </a>
 </p>
 
