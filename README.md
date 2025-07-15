@@ -1,3 +1,7 @@
+<!-- 상단 인사말 -->
+<h1 align="center">👋 안녕하세요! 오렌지 귤이되고싶은의 프로필에 오신 걸 환영합니다!</h1>
+
+---
 
 <!-- 자기소개 -->
 <p align="center">
@@ -35,15 +39,15 @@
 ### 📫 Contact Me
 <p align="center">
   <a href="https://instagram.com/your_instagram_id" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
 
