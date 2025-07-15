@@ -1,5 +1,5 @@
 <!-- 인삿말 + 간단 소개 -->
-<h1 align="center">🍊 강준혁's GitHub 🍊</h1>
+<h1 align="center"> 강 준 혁 </h1>
 <p align="center">
   안녕하세요! 3년제 컴퓨터 전공 중인 개발자 지망생입니다.<br>
   현재는 웹 개발과 게임 개발에 관심이 있어 열심히 공부 중이에요 🎮🕹️
@@ -10,12 +10,10 @@
 <!-- 기술 스택 -->
 ### 🛠️ Tech Stack
 <p>
-<img src="https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=white"/>
-
+  <img src="media/Css.svg"/>
+  <img src="media/C언어.png"/>
+  <img src="media/HTML5.png"/>
+  <img src="media/Javascript.png"/>
 </p>
 
 ---
