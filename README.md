@@ -1,5 +1,4 @@
-<!-- 인삿말 + 간단 소개 -->
-<h1 align="center"> 강 준 혁 </h1>
+
 <p align="center">
 
 </p>
