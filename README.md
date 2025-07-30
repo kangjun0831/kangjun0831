@@ -1,50 +1,45 @@
-<!-- 깃허브 프로필 README.md 예시 -->
-
-<h1 align="center">Hi 👋, I'm 강준혁</h1>
-<h3 align="center">A passionate web developer from Korea</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Frontend+Developer;Always+learning...&center=true&width=380&height=45">
-</p>
+### 💡 Tech Stack
 
 ---
 
-- 🌱 I’m currently learning **React, Node.js, TypeScript**
-- 🧑‍💻 I’m working on personal projects and open-source contributions
-- 💬 Ask me about **HTML, CSS, JavaScript, Git**
-- 📫 Reach me at: [june3154@gmail.com](mailto:june3154@gmail.com)
+### ⚡ Language
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-</p>
+### 🛠️ Tools & IDEs
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</div>
 
 ---
 
-### 🔗 Connect with me
+### 📫 Contact Me
 
-<p align="center">
-  <a href="https://www.instagram.com/your_id/" target="_blank">
+<p>
+  <a href="https://www.instagram.com/kjh._.0831/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:june3154@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://velog.io/@your_id" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight" width="48%"/>
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="48%"/>
 </p>
