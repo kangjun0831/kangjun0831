@@ -40,9 +40,10 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&bg_color=3B1C00&title_color=FF7043&text_colorFFD2B0&icon_color=FF8A65" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&bg_color=3B1C00&title_color=FF7043&text_color=FFD2B0&icon_color=FF8A65" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&bg_color=1E0000&title_color=FF4444&text_color=FFCCCC&icon_color=FF5555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&bg_color=1E0000&title_color=FF4444&text_color=FFCCCC&icon_color=FF5555" width="48%" />
 </p>
+
 
 
 
