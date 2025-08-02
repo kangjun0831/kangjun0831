@@ -1,28 +1,4 @@
-<!-- 깃허브 프로필 README 시작 -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#e63946;">Kang</span> Junhyeok</h1>
-<p align="center">
-  Student · Front-End Developer · UI/UX Designer
-</p>
-
-<p align="center">
-  <a href="https://kangjun0831.github.io" target="_blank">
-    🔗 Visit My Portfolio Website
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://kangjun0831.github.io/preview.png" alt="Web Preview" width="600" />
-</p>
-
-<p align="center">
-  <strong>📍 MY SOCIAL MEDIA</strong><br><br>
-  <a href="https://instagram.com/kjh._.0831" target="_blank">📷 Instagram</a> |
-  <a href="https://discord.com/users/kangjun0831" target="_blank">💬 Discord</a> |
-  <a href="mailto:orange060831@gmail.com">📧 Gmail</a>
-</p>
-
-<!-- 깃허브 프로필 README 끝 -->
 
 
 
