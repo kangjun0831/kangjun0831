@@ -1,20 +1,3 @@
-<p align="center">
-  <a href="https://www.enji.dev/work/contact">
-    <img alt="Enji Header" src="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://enji.dev">
-    <img src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=enji.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
-  </a>
-  <a href="https://twitter.com/enjidev">
-    <img src="https://img.shields.io/badge/Twitter-enjidev-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
-  </a>
-</p>
-
-
-
 ### 💡 Tech Stack
 
 ---
