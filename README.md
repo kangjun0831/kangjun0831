@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Enji</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+profile!;I'm+a+Frontend+Developer.;I+love+coding+and+anime!;Nice+to+meet+you!" alt="Typing SVG" />
+</p>
+
 ### 💡 Tech Stack
 
 ---
