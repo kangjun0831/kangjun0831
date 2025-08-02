@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enji</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">a frontend developer and anime enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+profile!;I'm+a+Frontend+Developer.;I+love+coding+and+anime!;Nice+to+meet+you!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFmMW5vZXNtbXJmM3MwdG41bGE4eGZyNzdmNWkweDJzZXBia2RjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="400"/>
 </p>
 
 ### 💡 Tech Stack
